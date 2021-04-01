@@ -30,8 +30,8 @@ Here are some ideas to get you started:
 <a  href="https://github.com/SP-XD">
 
 <img alt="SP-XD's github stats" width="50%"
-src="https://github-readme-stats.vercel.app/api?username=copoet&show_icons=true&count_private=true&hide_border=true&bg_color=50,e96205,904e99&theme=dracula" href="https://github.com/copoet" />
-<img alt="Top Langs" width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=copoet&layout=compact&count_private=true&&hide_border=true&bg_color=904e99&title_color=fff&text_color=fff&icon_color=f2f2f2&hide=jupyter%20notebook&langs_count=5" href="https://github.com/copoet" />
+src="https://github-readme-stats.vercel.app/api?username=copoet&show_icons=true&theme=dracula" href="https://github.com/copoet" />
+<img alt="Top Langs" width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=copoet&layout=compact&count_private=true&theme=dracula" href="https://github.com/copoet" />
 
 </a>
 
