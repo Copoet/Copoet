@@ -1,5 +1,6 @@
 
 ### Coding or think 🤔....
+* work hard,play harder, enjoy life,and enjoy work
 <!--
 **Copoet/Copoet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
