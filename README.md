@@ -16,14 +16,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
-<div align="center" width="50">
-
-<a  href="https://github.com/SP-XD">
-  <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working.gif?raw=true" href="https://github.com/SP-XD" alt="CoDiNg RocKs"  width="550"/> </a>  
-
-</div>
-
 <hr></hr>
 
 <div align="center" >
@@ -37,8 +29,5 @@ src="https://github-readme-stats.vercel.app/api?username=copoet&show_icons=true&
 </a>
 
 <hr></hr>
-
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dino.gif?raw=true" />
-<img src="https://github.com/SP-XD/SP-XD/blob/main/this_page_is.gif?raw=true"  width="400"/>
 
 </div>
